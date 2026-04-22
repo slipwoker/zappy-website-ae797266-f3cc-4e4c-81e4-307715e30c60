@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות תכשיטי כסף אונליין עם קולקציות עוצרות נשימה. תכשיטי כסף לנשים באיכות גבוהה, עיצובים ייחודיים ומשלוח מהיר. קני עכשיו וחוי יוקרה אמיתית.
+
+### אומנות וטיפול
+https://example.com/craftsmanship-care
+גלי כיצד כל תכשיט כסף נוצר ביד אמן ואיך לשמור עליו לנצח. מדריך טיפול מקצועי לתכשיטי כסף שיבטיח שהיופי שלך לא ידעך לעולם.
+
+### אודות עדי
+https://example.com/about
+הכירי את עדי, המותג שהפך תכשיטי כסף לאמנות לביש. מחויבות לאיכות, עיצוב עם נשמה ואהבה לכל פרט — זו הדרך שלנו ליצור תכשיטי כסף לנשים שאוהבות יופי אמיתי.
+
+### צור קשר
+https://example.com/contact
+יש שאלה על מכירת תכשיטי כסף או רוצה ייעוץ אישי? צוות עדי כאן בשבילך. צרי קשר עכשיו ונעזור לך למצוא את תכשיט הכסף המושלם שידבר בשמך.
+
+### Products
+https://example.com/products
+המוצרים שלנו - עדי
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - עדי
+
+### Category
+https://example.com/category/:slug
+מוצרים - עדי
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
